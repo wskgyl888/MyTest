@@ -1,9 +1,6 @@
 <?php 
-	echo 11111;
-
-
-
-
-
-
+	$data = true;
+	if ($data == true) {
+		echo "Hello";
+	}
  ?>
